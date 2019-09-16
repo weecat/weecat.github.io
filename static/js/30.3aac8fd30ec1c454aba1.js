@@ -1,0 +1,2 @@
+webpackJsonp([30],{"3qfi":function(e,t){},BYp6:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r=n("VuIw"),a={name:"Logout",created:function(){r.a.removeItem("AUTH_TOKEN"),window.location.href="/"}},i={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var o=n("VU/8")(a,i,!1,function(e){n("3qfi")},"data-v-0a6153f8",null);t.default=o.exports}});
+//# sourceMappingURL=30.3aac8fd30ec1c454aba1.js.map
